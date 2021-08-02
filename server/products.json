@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6107bc1c14d376334065ccd4"
+  },
+  "id": "1",
+  "name": "PS4",
+  "stock": 50,
+  "price": 5000,
+  "category": "IT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6107bc5614d376334065ccd6"
+  },
+  "id": "2",
+  "name": "PS5",
+  "stock": 50,
+  "price": 18000,
+  "category": "IT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6107bc6b14d376334065ccd8"
+  },
+  "id": "3",
+  "name": "Computer",
+  "stock": 500,
+  "price": 20000,
+  "category": "IT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6107bcb014d376334065ccda"
+  },
+  "id": "4",
+  "name": "NoteBook",
+  "stock": 200,
+  "price": 19500,
+  "category": "IT",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6107bcd314d376334065ccdc"
+  },
+  "id": "5",
+  "name": "naruto",
+  "stock": 20,
+  "price": 60,
+  "category": "หนังสือ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6107bcf114d376334065ccde"
+  },
+  "id": "6",
+  "name": "one-piece",
+  "stock": 20,
+  "price": 70,
+  "category": "หนังสือ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6107bd0e14d376334065cce0"
+  },
+  "id": "7",
+  "name": "เดธโน้ต",
+  "stock": 20,
+  "price": 75,
+  "category": "หนังสือ",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6107df4ceb3c4b3a1c36ef7c"
+  },
+  "id": "8",
+  "name": "๋Joy",
+  "category": "IT",
+  "stock": 800,
+  "price": 600,
+  "__v": 0
+}]
